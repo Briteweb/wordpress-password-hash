@@ -1,0 +1,18 @@
+{
+    "name": "briteweb/wordpress-password-hash",
+    "description": "Create WordPress password hashes from within Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Briteweb\\WordpressPasswordHash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeff Sagal",
+            "email": "sagalbot@gmail.com"
+        }
+    ],
+    "require": {}
+}
