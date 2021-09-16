@@ -1,4 +1,7 @@
 <?php
+
+namespace Briteweb\WordpressPasswordHash;
+
 #
 # Portable PHP password hashing framework.
 #
